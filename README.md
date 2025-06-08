@@ -2,6 +2,8 @@
 
 A lightweight autoclicker application for Windows with both mouse and keyboard support. Built with SDL2 and ImGui.
 
+![image](https://github.com/user-attachments/assets/884ad1d3-8937-4aaa-b13b-10ca9cc0002a)
+
 ## Quick Start (Pre-built Release)
 
 1. Download the latest release from the [releases](https://github.com/Nimplex/MakoClicker/releases/) page
