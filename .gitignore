@@ -1,0 +1,5 @@
+build/
+external/
+*.exe
+cmake-build-debug
+.idea
